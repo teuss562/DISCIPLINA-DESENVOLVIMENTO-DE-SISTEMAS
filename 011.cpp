@@ -6,9 +6,7 @@ Calcule e mostre:
     o terceiro elevado ao cubo.
 */
 #include <stdio.h>
-#include <ctype.h>
-#include <cmath>
-#include <cstring>
+#include <math>
 int main()
 {
     int num1, num2;
